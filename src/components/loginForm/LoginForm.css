@@ -17,29 +17,38 @@
     width: 400px;
     background: rgba(255, 255, 255, 0.1);
     color: #fff;
+    margin-left: 5px;
 }
 
 .userName {
     color: white;
+    margin-left: 10px;
+    margin-top: 5px;
 }
 
 #formBasicPassword {
     width: 400px;
     background: rgba(255, 255, 255, 0.1);
     color: #fff;
+    margin-left: 5px;
 }
 
 .password {
     color: white;
+    margin-left: 10px;
 }
 .signUp {
     text-align: right;
     margin-right: 245px;
+    margin-left: 5px;
+    margin-bottom: 5px;
     background: rgba(255, 255, 255, 0.1);
     color: #fff;
+
 }
 .signIn {
-     margin-right: 245px;
+    margin-right: 245px;
+    margin-bottom: 5px;
     background: rgba(255, 255, 255, 0.1);
     color: #fff;
  }
