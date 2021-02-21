@@ -1,0 +1,13 @@
+.cont {
+    padding-top: 20px;
+    border-color: #1c7430;
+}
+
+.jumbo {
+    height: 450px;
+    background-image: url("./img/logo.jpg");
+    background-size: cover;
+    color: #1c7430;
+    text-align: center;
+
+}
