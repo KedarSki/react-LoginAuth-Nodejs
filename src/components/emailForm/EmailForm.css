@@ -12,3 +12,6 @@
 .signIn {
      margin-right: 245px;
  }
+.errorMsg {
+    color: red;
+}
