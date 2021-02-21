@@ -1,9 +1,9 @@
 import React from "react";
 import {Form,Button,ButtonGroup} from "react-bootstrap";
-import "./EmailForm.css";
+import "./LoginForm.css";
 
 
-const EmailForm = (props) => {
+const LoginForm = (props) => {
 
     const {email,
         setEmail,
@@ -18,7 +18,7 @@ const EmailForm = (props) => {
     return (
         <Form className="form">
             <Form.Group controlId="formBasicEmail">
-                <Form.Label>Username</Form.Label>
+                <Form.Label className={"userName"}>Username</Form.Label>
                 <Form.Control
                     type="text"
                     placeholder="Enter username"
@@ -30,7 +30,7 @@ const EmailForm = (props) => {
                 <p className="errorMsg"> {emailError}</p>
             </Form.Group>
             <Form.Group controlId="formBasicPassword">
-                <Form.Label>Password</Form.Label>
+                <Form.Label className={"password"}>Password</Form.Label>
                 <Form.Control type="password" placeholder="Password" required value={password} onChange={(event) => setPassword(event.target.value)}
                 />
                 <p className="errorMsg"> {passwordError}</p>
@@ -47,4 +47,4 @@ const EmailForm = (props) => {
 
 };
 
-export default EmailForm;
+export default LoginForm;

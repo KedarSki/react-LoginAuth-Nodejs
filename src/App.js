@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import MainPage from "./MainPage";
 import './App.css';
 import { Container } from "react-bootstrap";
-import EmailForm from "./components/emailForm/EmailForm";
+import LoginForm from "./components/loginForm/LoginForm";
 import Header from "./components/header/Header";
 
 
@@ -89,7 +89,7 @@ authListener();
   {user ? (
       <MainPage handleLogout={handleLogOut}/>
   ) : (
-      <EmailForm
+      <LoginForm
           email={email} s
           setEmail={setEmail}
           password={password} s
