@@ -5,3 +5,9 @@
 #formBasicPassword {
     width: 400px;
 }
+.signUp {
+    text-align: right;
+}
+.signIn {
+     margin-right: 245px;
+ }

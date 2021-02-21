@@ -1,5 +1,5 @@
 import React from "react";
-import {Form,Button} from "react-bootstrap";
+import {Form,Button,ButtonGroup} from "react-bootstrap";
 import "./EmailForm.css";
 
 const EmailForm = () => {
@@ -16,9 +16,10 @@ const EmailForm = () => {
                 <Form.Label>Password</Form.Label>
                 <Form.Control type="password" placeholder="Password" />
             </Form.Group>
-            <Button variant="primary" type="submit">
-                Submit
-            </Button>
+            <ButtonGroup aria-label="Basic example">
+                <Button variant="primary" className={'signIn'}>Sign In</Button>
+                <Button variant="primary" className={'signUp'}>Sign Up</Button>
+            </ButtonGroup>
         </Form>
         );
 
