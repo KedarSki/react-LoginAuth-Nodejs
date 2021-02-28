@@ -8,12 +8,7 @@ import MainPage from "./MainPage";
 import { Container } from "react-bootstrap";
 import LoginForm from "./components/loginForm/LoginForm";
 import Header from "./components/header/Header";
-import {GoogleLogin} from "react-google-login";
 
-
-
-// Identyfikator klienta - 1026299545361-nrlt19cm8sjkbbtmvrtlssjjppmguk92.apps.googleusercontent.com
-// Tajny klucz klienta - 3Ex5CWguF9CmeMwQJ4kTe8YK
 
 const App = () => {
     const [user, setUser] = useState('');

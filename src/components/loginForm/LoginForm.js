@@ -2,7 +2,6 @@ import React from "react";
 import {Form, Button, ButtonGroup, Container} from "react-bootstrap";
 import "./LoginForm.css";
 import {GoogleLogin} from 'react-google-login';
-import GoogleButton from 'react-google-button'
 
 const LoginForm = (props) => {
 
