@@ -1,7 +1,8 @@
 import React from "react";
-import {Form,Button,ButtonGroup} from "react-bootstrap";
+import {Form, Button, ButtonGroup, Container} from "react-bootstrap";
 import "./LoginForm.css";
-
+import {GoogleLogin} from 'react-google-login';
+import GoogleButton from 'react-google-button'
 
 const LoginForm = (props) => {
 
@@ -11,10 +12,17 @@ const LoginForm = (props) => {
         setPassword,
         handleLogin,
         handleSignUp,
-        hasAccount,
         emailError,
         passwordError } =
     props;
+
+    const loginGoogle = (response) => {
+        console.log(response);
+        let res =  response.profileObj;
+        console.log(res);
+
+    }
+
     return (
         <Form className="form">
             <Form.Group controlId="formBasicEmail">
@@ -40,6 +48,12 @@ const LoginForm = (props) => {
                     <>
                         <Button variant="primary" className={'signUp'} onClick={handleSignUp}>Sign Up</Button>
                         <Button variant="primary" className={'signIn'} onClick={handleLogin}>Sign In</Button>
+                        <GoogleLogin className={'googleButton'}
+                            clientId={'1026299545361-nrlt19cm8sjkbbtmvrtlssjjppmguk92.apps.googleusercontent.com'}
+                            buttonText={'Login with Google'}
+                            onSuccess={loginGoogle}
+                            onFailure={loginGoogle}
+                        />
                     </>
             </ButtonGroup>
         </Form>
