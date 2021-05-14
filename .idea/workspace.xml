@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6c102af-fd56-4486-b2ce-68198b9a119a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.vs/ProjectSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/react-login-page/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/extensions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/loginForm/LoginForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/loginForm/LoginForm.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1onEaedOK62FAtPzgyvdYZ2X6Yz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\rados\Desktop\Studia\Git\react-login-page\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6c102af-fd56-4486-b2ce-68198b9a119a" name="Default Changelist" comment="" />
+      <created>1613914020290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613914020290</updated>
+      <workItem from="1613914022463" duration="14234000" />
+      <workItem from="1613931512911" duration="754000" />
+      <workItem from="1613940439161" duration="5446000" />
+      <workItem from="1613947960218" duration="139000" />
+      <workItem from="1614026288349" duration="647000" />
+      <workItem from="1614471531673" duration="647000" />
+      <workItem from="1614531798651" duration="189000" />
+      <workItem from="1614532000201" duration="10305000" />
+      <workItem from="1614552956649" duration="2066000" />
+      <workItem from="1614685685752" duration="779000" />
+      <workItem from="1615051272333" duration="597000" />
+      <workItem from="1615063466150" duration="594000" />
+      <workItem from="1615141480542" duration="38000" />
+      <workItem from="1615144304339" duration="1263000" />
+      <workItem from="1615151814438" duration="23000" />
+      <workItem from="1615156784258" duration="1073000" />
+      <workItem from="1615225026279" duration="500000" />
+      <workItem from="1615231327437" duration="86000" />
+    </task>
+    <task id="LOCAL-00001" summary="Final Commit. Sign in and Sing Up buttons created. &#10;&#10;Function on onclick event buttons has been created. &#10;&#10;Sign Up and Sign In Authenticator has go through event correctly. &#10;&#10;When Sign in or Sign Up user is moving to Main Page">
+      <created>1613931081054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613931081054</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Top picture and Jumbotron updated. &#10;&#10;Error message color changed to red">
+      <created>1613941052716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613941052716</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Prettify Log in container with colors">
+      <created>1613945185775</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613945185775</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Prettify Login and Sign Up buttons">
+      <created>1613945510456</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613945510456</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding Google Button, Google dev panel has been configured &#10;so Google login button can work for my localhost. &#10;Google Login authenticator is fully working on this panel.">
+      <created>1614545534658</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614545534658</updated>
+    </task>
+    <task id="LOCAL-00006" summary="comments removed">
+      <created>1614546892754</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614546892754</updated>
+    </task>
+    <task id="LOCAL-00007" summary="comments removed">
+      <created>1614548224917</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614548224917</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Final Commit. Sign in and Sing Up buttons created. &#10;&#10;Function on onclick event buttons has been created. &#10;&#10;Sign Up and Sign In Authenticator has go through event correctly. &#10;&#10;When Sign in or Sign Up user is moving to Main Page" />
+    <MESSAGE value="Top picture and Jumbotron updated. &#10;&#10;Error message color changed to red" />
+    <MESSAGE value="Prettify Log in container with colors" />
+    <MESSAGE value="Prettify Login and Sign Up buttons" />
+    <MESSAGE value="Adding Google Button, Google dev panel has been configured &#10;so Google login button can work for my localhost. &#10;Google Login authenticator is fully working on this panel." />
+    <MESSAGE value="comments removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="comments removed" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
